@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Аккумулятор 75A",
+        "price": "850,000",
+        "category": "Электрика",
+        "image": "https://i.postimg.cc/d01yHfGp/akkumlyator.png"
+    },
+    {
+        "id": 2,
+        "name": "Моторное масло 5W-30",
+        "price": "450,000",
+        "category": "Масла",
+        "image": "https://i.ibb.co/xyz123/motor-oil.png"
+    },
+    {
+        "id": 3,
+        "name": "Светодиодные лампы",
+        "price": "120,000",
+        "category": "Освещение",
+        "image": "i:turn0image4"
+    },
+    {
+        "id": 4,
+        "name": "Свечи зажигания",
+        "price": "200,000",
+        "category": "Двигатель",
+        "image": "i:turn0image1"
+    },
+    {
+        "id": 5,
+        "name": "Автомобильный генератор",
+        "price": "1,500,000",
+        "category": "Электрика",
+        "image": "i:turn0image4"
+    },
+    {
+        "id": 6,
+        "name": "Тормозные колодки",
+        "price": "300,000",
+        "category": "Тормозная система",
+        "image": "https://ibb.co/236PVq5s"
+    },
+    {
+        "id": 7,
+        "name": "Радиатор охлаждения",
+        "price": "950,000",
+        "category": "Охлаждение",
+        "image": "i:turn0image10"
+    },
+    {
+        "id": 8,
+        "name": "Сцепление комплект",
+        "price": "1,200,000",
+        "category": "Трансмиссия",
+        "image": "i:turn0image7"
+    }
+]
